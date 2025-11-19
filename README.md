@@ -15,6 +15,8 @@ Folder/File	Description
 Amazon_Review_2023.ipynb	Jupyter notebook showing analysis and usage of the dataset.
 ER_Diagram.jpg	Visual representation of the data model.
 README.md	This file.
+
+
 📌 Dataset Overview
 
 The dataset is sampled (~500,000 reviews) from Amazon’s product review corpus for 2023, offering insights into:
